@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="file:///Users/yessicagarrido/Downloads/banner_yessi_anonymous.webm" width="100%" autoplay loop muted>
+  <video src="banner_yessi_anonymous.webm" width="100%" autoplay loop muted>
   </video>
 </p>
 
