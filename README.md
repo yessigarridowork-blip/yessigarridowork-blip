@@ -1,9 +1,9 @@
 <p align="center">
-  <video src="https://github.com/yessigarridowork-blip/yessigarridowork-blip/blob/main/banner_yessi_anonymous.webm" width="100%" autoplay loop muted>
+  <video src="file:///Users/yessicagarrido/Downloads/banner_yessi_anonymous.webm" width="100%" autoplay loop muted>
   </video>
 </p>
-https://github.com/yessigarridowork-blip/yessigarridowork-blip/blob/main/banner_yessi_anonymous.webm
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
+
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-07` <!-- TODO: automate this -->
 
