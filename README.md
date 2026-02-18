@@ -1,6 +1,7 @@
 <a href="https://tu-link-aqui.com">
-  <img src="banner_yessi_anonymous (1).gif"
+  <img src="https://raw.githubusercontent.com/yessigarridowork-blip/yessigarridowork-blip/main/banner_yessi%20(4).gif"
        alt="👋 Hi there! I'm Yessica Garrido"
+      width="100%"
        title="👋 Hi there! I'm Yessica Garrido" />
 </a>
 
